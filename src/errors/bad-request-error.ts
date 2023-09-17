@@ -9,4 +9,4 @@ export function badCepRequestError(): RequestError {
     statusText: 'Bad Request',
     message: 'Invalid cep!',
   };
-};
+}
